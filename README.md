@@ -2,7 +2,7 @@
 
 🏆 <ins>WWDC2020 Swift Student Challenge Winner</ins>
 
-Hi, I'm Peter Yaacoub, a 16 years old Lebanese student who has been attending school and developing iOS apps concurrently since 2017. 🔀 Besides programming, I find joy in hobbies such as football (soccer), electronics, music composition, drawing and writing! 👨🏻‍🎨 I also love languages. I'm fluent in English, French and Arabic, advanced in Spanish, and intermediate in German.
+Hi, I'm Peter Yaacoub, a 16 years old Lebanese student who has been attending school and developing iOS apps concurrently 🔀 since 2017. Besides programming, I find joy in hobbies such as football (soccer), electronics, music composition, drawing and writing! 👨🏻‍🎨 I also love languages. I'm fluent in English, French and Arabic, advanced in Spanish, and intermediate in German.
 
 ## "Journey" 👀
 
