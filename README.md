@@ -24,6 +24,7 @@ Throughout the years, I have gained incredible experience using prototyping, ima
 
 <br><br>
 <img src="Development Tools 1.png" width="500" alt="Xcode, Git, GitHub, and VS Code."/>
+<br><br>
 <img src="Development Tools 2.png" width="500" alt="Creative Cloud, Firebase, Admob, and Notion."/>
 <br><br>
 
