@@ -1,14 +1,13 @@
 # Awards
 
-- WWDC20 Swift Student Challenge Winner.
 - WWDC21 Swift Student Challenge Winner.
+- WWDC20 Swift Student Challenge Winner.
 
 # Description
 
 I am a 17-year-old Lebanese student attending school and developing iOS apps concurrently since 2017.
 
-
-Besides programming, I find joy in hobbies such as football (soccer), electronics, music composition, drawing and writing. I also love languages, and I am fluent in English, French and Arabic, intermediate in Spanish, and beginner in German.
+Besides programming, I find joy in hobbies such as football (soccer), road bike racing, electronics, music composition, drawing and writing. I also love languages, and I am fluent in English, French and Arabic, intermediate in Spanish, and beginner in German.
 
 # Computer Languages
 
