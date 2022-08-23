@@ -29,9 +29,7 @@ Before starting iOS development and diving headfirst into the fascinating world 
 Throughout the years, I have gained incredible experience using prototyping, image manipulation, and video editing software. The following are some of the development and collaboration tools I use.
 
 <br><br>
-<img src="Development Tools 1.png" width="500" alt="Xcode, Git, GitHub, and VS Code."/>
-<br><br>
-<img src="Development Tools 2.png" width="500" alt="Creative Cloud, Firebase, Admob, and Notion."/>
+<img src="Development Tools.png" width="500" alt="Xcode, Git, GitHub, and VS Code."/>
 <br><br>
 
 # Contact
