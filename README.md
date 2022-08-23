@@ -20,17 +20,18 @@ Besides programming, I fancy hobbies such as playing football (soccer), composin
 
 Before starting iOS development and diving headfirst into the fascinating world of the type-safe and protocol-oriented Swift language, I had been dabbling with other languages since 2013. Here are some programming, markup, and style-sheet languages I use.
 
-<br><br>
-<img src="Computer Languages.png" width="500" alt="Swift, Python, HTML, and CSS.">
-<br><br>
+|    |    |    |
+|:---|:---|:---|
+| Swift | HTML & CSS | Python |
 
 # Development Tools
 
 Throughout the years, I have gained incredible experience using prototyping, image manipulation, and video editing software. The following are some of the development and collaboration tools I use.
 
-<br><br>
-<img src="Development Tools.png" width="500" alt="Xcode, Git, GitHub, and VS Code."/>
-<br><br>
+|    |    |    |
+|:---|:---|:---|
+| Xcode | Git & GitHub | VS Code |
+| Creative Cloud | Firebase & Admob | Notion |
 
 # Contact
 
