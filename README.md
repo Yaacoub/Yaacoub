@@ -1,5 +1,6 @@
 # Awards
 
+- WWDC23 Swift Student Challenge Winner
 - WWDC22 Swift Student Challenge Winner
 - WWDC21 Swift Student Challenge Winner
 - WWDC20 Swift Student Challenge Winner
