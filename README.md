@@ -9,7 +9,8 @@
 
 Discover the applications I build with passion, the problems they're solving, and more valuable information.
 - [Christmas Guide](https://apps.apple.com/app/id1546178842)
-- [Huh?](https://apps.apple.com/app/id1330097506)
+- [Huh? Dictionary](https://apps.apple.com/app/id1330097506)
+- [Modulart Studio](https://apps.apple.com/app/id6451383807)
 
 # Description
 
