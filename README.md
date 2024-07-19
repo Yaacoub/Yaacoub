@@ -5,36 +5,41 @@
 - Apple Swift Student Challenge 2021 : **Winner**
 - Apple Swift Student Challenge 2020 : **Winner**
 
+# Description
+
+I am a computer engineering student at INSA de Lyon, developing iOS apps and other projects on the side since middle school. Along the way, I've expanded my horizons to writing articles, building this website, and diving into various creative pursuits!
+
+Besides programming, I fancy hobbies such as playing football (soccer), composing music and drawing. I also love languages, and I am native in English, French, and Arabic, intermediate in Spanish, and beginner in German, and Russian.
+
 # Apps
 
-Discover the applications I build with passion, the problems they're solving, and more valuable information.
 - [Christmas Guide](https://apps.apple.com/app/id1546178842)
 - [Huh? Dictionary](https://apps.apple.com/app/id1330097506)
 - [Modulart Studio](https://apps.apple.com/app/id6451383807)
 
-# Description
-
-I am a student from Lebanon, attending university and developing iOS apps concurrently since 2017. Since then, I've branched out to writing articles, building this website, and more! 
-
-Besides programming, I fancy hobbies such as playing football (soccer), composing music, drawing and reading. I also love languages, and I am fluent in English, French, and Arabic, intermediate in Spanish, and beginner in German.
-
 # Computer Languages
-
-Before starting iOS development and diving headfirst into the fascinating world of the type-safe and protocol-oriented Swift language, I had been dabbling with other languages since 2013. Here are some programming, markup, and style-sheet languages I use.
 
 |    |    |    |
 |:---|:---|:---|
-| Swift | HTML & CSS | Python |
+| C++ | CSS | HTML |
+| JavaScript | Python | Swift |
 
 # Development Tools
 
-Throughout the years, I have gained incredible experience using prototyping, image manipulation, and video editing software. The following are some of the development and collaboration tools I use.
+|    |    |    |
+|:---|:---|:---|
+| AdSense | Docker | Git |
+| GitHub | Visual Studio Code | Xcode |
+
+# Productivity Tools
 
 |    |    |    |
 |:---|:---|:---|
-| Xcode | Git & GitHub | VS Code |
-| Creative Cloud | Firebase & Admob | Notion |
+| Creative Cloud | Final Cut Pro | Logic Pro |
+| Notion | Office | Sketch |
 
 # Contact
 
-Visit my [Twitter](https://twitter.com/yaapete) profile to stay up-to-date with future workings. And send me an [email](mailto:yaapete.dev@gmail.com) to obtain more information. All inquiries are welcome!
+|    |    |    |
+|:---|:---|:---|
+| [Email](mailto:yaapete.dev@gmail.com) | [GitHub](#) | [X](https://x.com/yaapete) |
