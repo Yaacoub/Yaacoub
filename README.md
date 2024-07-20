@@ -21,19 +21,19 @@ Besides programming, I fancy hobbies such as playing football (soccer), composin
 
 |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|
-| C++ | CSS | HTML | JavaScript | Python | Swift |
+| ![C++](https://img.shields.io/badge/C%2B%2B-7199CD) | ![CSS](https://img.shields.io/badge/CSS-304CDC) | ![HTML](https://img.shields.io/badge/HTML-D35836) | ![JavaScript](https://img.shields.io/badge/JavaScript-F3E050) | ![Python](https://img.shields.io/badge/Python-4877AA) | ![Swift](https://img.shields.io/badge/Swift-E85238) |
 
 # Development Tools
 
 |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|
-| AdSense | Docker | Git | GitHub | VS Code | Xcode |
+| ![Docker](https://img.shields.io/badge/Docker-3262E5) | ![Git](https://img.shields.io/badge/Git-DC5C45) | ![GitHub](https://img.shields.io/badge/GitHub-000000) | ![Google Analytics](https://img.shields.io/badge/Google_Analytics-D57A2D) | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-56A7E9) | ![Xcode](https://img.shields.io/badge/Xcode-479AE5) |
 
 # Productivity Tools
 
 |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|
-| Creative Cloud | Final Cut Pro | Logic Pro | Notion | Office | Sketch |
+| ![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-E43322) | ![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-3A404B) | ![Logic Pro](https://img.shields.io/badge/Logic_Pro-424242) | ![Notion](https://img.shields.io/badge/Notion-000000) | ![Office](https://img.shields.io/badge/Office-C74821) | ![Sketch](https://img.shields.io/badge/Sketch-E7A93B) |
 
 # Contact
 
