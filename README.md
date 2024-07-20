@@ -19,24 +19,21 @@ Besides programming, I fancy hobbies such as playing football (soccer), composin
 
 # Computer Languages
 
-|    |    |    |
-|:---|:---|:---|
-| C++ | CSS | HTML |
-| JavaScript | Python | Swift |
+|    |    |    |    |    |    |
+|:---|:---|:---|:---|:---|:---|
+| C++ | CSS | HTML | JavaScript | Python | Swift |
 
 # Development Tools
 
-|    |    |    |
-|:---|:---|:---|
-| AdSense | Docker | Git |
-| GitHub | Visual Studio Code | Xcode |
+|    |    |    |    |    |    |
+|:---|:---|:---|:---|:---|:---|
+| AdSense | Docker | Git | GitHub | VS Code | Xcode |
 
 # Productivity Tools
 
-|    |    |    |
-|:---|:---|:---|
-| Creative Cloud | Final Cut Pro | Logic Pro |
-| Notion | Office | Sketch |
+|    |    |    |    |    |    |
+|:---|:---|:---|:---|:---|:---|
+| Creative Cloud | Final Cut Pro | Logic Pro | Notion | Office | Sketch |
 
 # Contact
 
