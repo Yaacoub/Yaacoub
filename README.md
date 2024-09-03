@@ -13,6 +13,7 @@ Besides programming, I fancy hobbies such as playing football (soccer), composin
 
 # Apps
 
+- [Catzumi](https://apps.apple.com/app/id6642671240/)
 - [Christmas Guide](https://apps.apple.com/app/id1546178842)
 - [Huh? Dictionary](https://apps.apple.com/app/id1330097506)
 - [Modulart Studio](https://apps.apple.com/app/id6451383807)
