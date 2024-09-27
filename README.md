@@ -1,5 +1,6 @@
 # Awards
 
+- RevenueCat Ship-a-ton 2024 : **Top 500**
 - Apple Swift Student Challenge 2023 : **Winner**
 - Apple Swift Student Challenge 2022 : **Winner**
 - Apple Swift Student Challenge 2021 : **Winner**
