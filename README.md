@@ -1,44 +1,35 @@
-# Awards
+### Hey there!
 
-- RevenueCat Ship-a-ton 2024 : **Top 500**
-- Apple Swift Student Challenge 2023 : **Winner**
-- Apple Swift Student Challenge 2022 : **Winner**
-- Apple Swift Student Challenge 2021 : **Winner**
-- Apple Swift Student Challenge 2020 : **Winner**
+I'm a 4th year Computer Engineering student at INSA Lyon.
 
-# Description
+#### Computer Languages
 
-I am a computer engineering student at INSA de Lyon, developing iOS apps and other projects on the side since middle school. Along the way, I've expanded my horizons to writing articles, building this website, and diving into various creative pursuits!
+![C+](https://img.shields.io/badge/C-014e8e) ![C++](https://img.shields.io/badge/C%2B%2B-014d8c) ![CSS](https://img.shields.io/badge/CSS-264de4) ![HTML](https://img.shields.io/badge/HTML-e44d26) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e) ![Matlab](https://img.shields.io/badge/Matlab-f1713f) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-ff0000) ![Python](https://img.shields.io/badge/Python-3773a4) ![Shell](https://img.shields.io/badge/Shell-313d3f) ![Swift](https://img.shields.io/badge/Swift-fc3123)
 
-Besides programming, I fancy hobbies such as playing football (soccer), composing music and drawing. I also love languages, and I am native in English, French, and Arabic, intermediate in Spanish, and beginner in German, and Russian.
+#### Development Tools
 
-# Apps
+![Docker](https://img.shields.io/badge/Docker-3262e5) ![Git](https://img.shields.io/badge/Git-ee513b) ![GitHub](https://img.shields.io/badge/GitHub-030303) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-f9ab00) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-127bc0) ![Xcode](https://img.shields.io/badge/Xcode-15afee)
 
-- [Catzumi](https://apps.apple.com/app/id6642671240/)
-- [Christmas Guide](https://apps.apple.com/app/id1546178842)
-- [Huh? Dictionary](https://apps.apple.com/app/id1330097506)
-- [Modulart Studio](https://apps.apple.com/app/id6451383807)
+#### Productivity Tools
 
-# Computer Languages
+![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-f56d13) ![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-494d58) ![Logic Pro](https://img.shields.io/badge/Logic_Pro-d7e0ea) ![Notion](https://img.shields.io/badge/Notion-010101) ![Office](https://img.shields.io/badge/Office-de4905) ![Sketch](https://img.shields.io/badge/Sketch-fdb70d)
 
-|    |    |    |    |    |    |
-|:---|:---|:---|:---|:---|:---|
-| ![C++](https://img.shields.io/badge/C%2B%2B-7199CD) | ![CSS](https://img.shields.io/badge/CSS-304CDC) | ![HTML](https://img.shields.io/badge/HTML-D35836) | ![JavaScript](https://img.shields.io/badge/JavaScript-F3E050) | ![Python](https://img.shields.io/badge/Python-4877AA) | ![Swift](https://img.shields.io/badge/Swift-E85238) |
+#### Apps
 
-# Development Tools
+<p float="left">
+  <a href="https://apps.apple.com/app/id6642671240"><img alt="Catzumi" src="https://yaacoub.github.io/-assets/images/apps/catzumi/icon.webp" width="50px"></a>
+  <img hspace="10">
+  <a href="https://apps.apple.com/app/id1546178842"><img alt="Christmas Guide" src="https://yaacoub.github.io/-assets/images/apps/christmas-guide/icon.webp" width="50px"></a>
+  <img hspace="10">
+  <a href="https://apps.apple.com/app/id1330097506"><img alt="Huh? Dictionary" src="https://yaacoub.github.io/-assets/images/apps/huh-dictionary/icon.webp" width="50px"></a>
+  <img hspace="10">
+  <a href="https://apps.apple.com/app/id6451383807"><img alt="Modulart Studio" src="https://yaacoub.github.io/-assets/images/apps/modulart-studio/icon.webp" width="50px"></a>
+</p>
 
-|    |    |    |    |    |    |
-|:---|:---|:---|:---|:---|:---|
-| ![Docker](https://img.shields.io/badge/Docker-3262E5) | ![Git](https://img.shields.io/badge/Git-DC5C45) | ![GitHub](https://img.shields.io/badge/GitHub-000000) | ![Google Analytics](https://img.shields.io/badge/Google_Analytics-D57A2D) | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-56A7E9) | ![Xcode](https://img.shields.io/badge/Xcode-479AE5) |
+#### Awards
 
-# Productivity Tools
-
-|    |    |    |    |    |    |
-|:---|:---|:---|:---|:---|:---|
-| ![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-E43322) | ![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-3A404B) | ![Logic Pro](https://img.shields.io/badge/Logic_Pro-424242) | ![Notion](https://img.shields.io/badge/Notion-000000) | ![Office](https://img.shields.io/badge/Office-C74821) | ![Sketch](https://img.shields.io/badge/Sketch-E7A93B) |
-
-# Contact
-
-|    |    |    |
-|:---|:---|:---|
-| [Email](mailto:yaapete.dev@gmail.com) | [GitHub](#) | [X](https://x.com/yaapete) |
+![Winner](https://img.shields.io/badge/Top%20500-ddddff) RevenueCat Ship-a-ton 2024  
+![Winner](https://img.shields.io/badge/Winner-ffdd00) Apple Swift Student Challenge 2023  
+![Winner](https://img.shields.io/badge/Winner-ffdd00) Apple Swift Student Challenge 2022  
+![Winner](https://img.shields.io/badge/Winner-ffdd00) Apple Swift Student Challenge 2021  
+![Winner](https://img.shields.io/badge/Winner-ffdd00) Apple Swift Student Challenge 2020
